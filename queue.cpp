@@ -14,6 +14,7 @@ int main(){
   q.push(30);
   q.push(40);
   q.push(50);
+  q.pop();
 // cout << "   The element in the queue " << q.back() << endl;
 print_queue(q);
 return 0;
